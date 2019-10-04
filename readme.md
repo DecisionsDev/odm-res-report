@@ -1,7 +1,4 @@
-Title
-=====
-
-IBM ODM Rule Execution Server report
+# IBM ODM Rule Execution Server report
 
 Table of Contents
 
